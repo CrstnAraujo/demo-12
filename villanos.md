@@ -2,4 +2,3 @@
 
 * Serpentin
 * Almendrin
-* Conejito malo
